@@ -1,0 +1,1 @@
+# libreoffice-dark-icons-svg
